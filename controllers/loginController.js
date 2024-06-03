@@ -1,2 +1,0 @@
-exports.login = (req, res) => {
-}
